@@ -5,3 +5,5 @@
 <p><a href="https://www.youtube.com/watch?v=o5UCDvaNLd8">Bootstrap Code-Along</a></p>.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-codealong' title='bootstrap-codealong'>bootstrap-codealong</a> on Learn.co and start learning to code for free.</p>
+Exceptional Reality Website (Bootstrap Version).
+This is an example website using the Twitter Bootstrap V3 framework.
